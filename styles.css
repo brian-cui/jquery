@@ -1,0 +1,33 @@
+.bg-gray {
+    background-color: #ccc;
+}
+
+.blue {
+    color: #0000ff;
+}
+
+.card {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 2px 2px 3px 2px #ccc;
+    margin: 15px;
+    padding: 20px;
+    width: 250px;
+}
+
+.red {
+    color: red;
+}
+
+.title {
+    margin-bottom: 40px;
+    text-align: center;
+    width: 100%;
+}
+
+#wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
